@@ -1,0 +1,11 @@
+site_name: Extrator de Emails - Aula do curso de Python para Sistemas de Recomendação - UFT
+
+theme: "material"
+
+nav:
+ - index.md
+ - references.md
+ - about.md
+
+plugins:
+ - mkdocstrings

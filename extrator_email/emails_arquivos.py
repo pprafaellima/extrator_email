@@ -1,3 +1,5 @@
+"""Módulo responsável por navegar em pastas, extrair os emails e exportar para csv.
+"""
 import glob
 from extrator import extrair_emails, EmailNotFoundError
 
